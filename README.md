@@ -35,8 +35,9 @@ The project includes the following system design diagrams:
    ![image alt](https://github.com/ArpitaAI/AIUB-OOAD-Final-Term-Project/blob/d63bf931df5bfa8ad12288c912fbebd27bf44724/Class%20diagram.png)
    
 3. Activity Diagram
-4. Sequence Diagram
-5. Statechart Diagram
+    ![image alt](https://github.com/ArpitaAI/AIUB-OOAD-Final-Term-Project/blob/1ec84a87c17b4d38e5a7b23da8c49feb3283dd13/Activity%20diagram.png)
+5. Sequence Diagram
+6. Statechart Diagram
 
 These diagrams represent the system's actors, object relationships, workflows, interactions, and state transitions.
 
