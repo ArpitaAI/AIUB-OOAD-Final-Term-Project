@@ -31,8 +31,9 @@ The project represents four major actors: User, Admin, Moderator, and Developer,
 
 The project includes the following system design diagrams:
 
-1. Overall Use Case Diagram
-2. Class Diagram
+1. Class Diagram
+   ![image alt](https://github.com/ArpitaAI/AIUB-OOAD-Final-Term-Project/blob/d63bf931df5bfa8ad12288c912fbebd27bf44724/Class%20diagram.png)
+   
 3. Activity Diagram
 4. Sequence Diagram
 5. Statechart Diagram
